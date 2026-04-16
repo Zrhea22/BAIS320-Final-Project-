@@ -10,3 +10,4 @@ This project analyzes employee salary data from a fictional company, BananaByte,
 
 ### Summary
 This project demonstrates practical data analysis skills, including data preprocessing, exploratory analysis, visualization, and interpretation. The goal is to derive insights that could support more informed business and human resource decisions.
+<img width="2891" height="1566" alt="image" src="https://github.com/user-attachments/assets/c33a035c-acb3-4ad5-ac5d-dbe71d421c3f" />
